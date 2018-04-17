@@ -2,6 +2,14 @@
 
 # Parse a command using bash/OS
 
+### Installation
+
+```bash
+ $ npm i parse-command 
+```
+
+### Usage
+
 ```javascript
 const {parseCommand} = require('parse-command');
 
