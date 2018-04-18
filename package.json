@@ -1,6 +1,6 @@
 {
   "name": "parse-command",
-  "version": "0.0.101",
+  "version": "0.0.102",
   "description": "Semver-oriented TypeScript library skeleton.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
